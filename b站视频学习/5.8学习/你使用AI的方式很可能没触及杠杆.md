@@ -1,6 +1,6 @@
 ---
 date: 2026-05-08
-archived: false
+archived: true
 ---
 
 # 你使用AI的方式很可能没触及杠杆

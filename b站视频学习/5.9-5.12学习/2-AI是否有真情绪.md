@@ -1,6 +1,6 @@
 ---
 date: 2026-05-10
-archived: false
+archived: true
 ---
 
 # 【闪客】AI是否有真情绪？有！黑镜中的场景提前到来了

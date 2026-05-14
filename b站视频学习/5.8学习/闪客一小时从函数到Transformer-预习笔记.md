@@ -1,6 +1,6 @@
 ---
 date: 2026-05-08
-archived: false
+archived: true
 ---
 
 # 【闪客】一小时从函数到 Transformer — 预习笔记

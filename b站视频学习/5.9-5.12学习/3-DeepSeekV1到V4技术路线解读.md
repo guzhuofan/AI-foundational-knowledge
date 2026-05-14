@@ -1,9 +1,9 @@
 ---
 date: 2026-05-11
-archived: false
+archived: true
 ---
 
-# 【闪客】深入解读 DeepSeek V1~V4！一口气看懂从蒸馏到推理
+# 【闪客】深入解读 DeepSeek V1~V4！一口气看懂
 
 > **视频来源**：https://www.bilibili.com/video/BV1rpovBCEGH/
 > **学习日期**：2026-05-11

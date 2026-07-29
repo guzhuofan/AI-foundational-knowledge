@@ -1,6 +1,6 @@
 ---
 date: 2026-05 前
-archived: false
+archived: true
 ---
 
 # 为什么 Mini-batch 的梯度能代表整体的方向？

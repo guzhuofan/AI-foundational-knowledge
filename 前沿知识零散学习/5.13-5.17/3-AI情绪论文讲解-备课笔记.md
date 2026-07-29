@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15
-archived: false
+archived: true
 ---
 
 # AI情绪论文讲解 · 备课笔记
